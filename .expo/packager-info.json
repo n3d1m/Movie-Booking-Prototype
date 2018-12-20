@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 2708,
-  "expoServerNgrokUrl": "https://pb-7xu.n3d1m.movie-booking-prototype.exp.direct",
-  "packagerNgrokUrl": "https://packager.pb-7xu.n3d1m.movie-booking-prototype.exp.direct",
-  "ngrokPid": 2730
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
